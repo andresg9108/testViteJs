@@ -1,0 +1,19 @@
+.mybtn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    padding: 8px;
+    color: #fff;
+    background-color: red;
+    cursor: pointer;
+    user-select: none;
+}
+
+.mybtn:hover{
+    background-color: blue;
+    transform: scale(1.1);
+    transition: all 0.3s;
+}

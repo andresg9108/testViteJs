@@ -1,0 +1,11 @@
+{
+    "user": {
+        "name": "John",
+        "lastname": "Doe",
+        "age": 29,
+        "email": "example@example.com"
+    },
+    "session": {
+        "id": "1asf23asf45asf6"
+    }
+}
